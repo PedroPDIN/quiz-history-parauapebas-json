@@ -1,0 +1,130 @@
+{
+  "cidade": "Parauapebas",
+  "nivel": "easy",
+  "perguntas": [
+    {
+      "id": 0,
+      "question": "Por qual título Parauapebas é mundialmente conhecida devido à sua riqueza mineral?",
+      "options": [
+        "Cidade das Mangueiras",
+        "Capital do Minério",
+        "Cidade Luz",
+        "Capital da Castanha"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Parauapebas recebeu esse título por estar assentada na maior província mineral do planeta, a Serra dos Carajás."
+    },
+    {
+      "id": 1,
+      "question": "Em que ano o município de Parauapebas conquistou sua emancipação política de Marabá?",
+      "options": ["1976", "1985", "1988", "1997"],
+      "correctAnswer": 2,
+      "curiosity": "A lei que criou o município foi sancionada em 10 de maio de 1988, após um plebiscito com 99% de aprovação popular."
+    },
+    {
+      "id": 2,
+      "question": "Qual é a principal atividade econômica responsável pelo crescimento de Parauapebas?",
+      "options": ["Agricultura", "Turismo", "Mineração", "Pecuária"],
+      "correctAnswer": 2,
+      "curiosity": "A extração de minério de ferro é a principal fonte de recursos, impulsionando a economia e o crescimento populacional desde a década de 80."
+    },
+    {
+      "id": 3,
+      "question": "O que significa o nome 'Parauapebas' na língua de origem indígena Tupi?",
+      "options": ["Águas Profundas", "Rio de Águas Rasas", "Montanha de Ferro", "Lugar de Ouro"],
+      "correctAnswer": 1,
+      "curiosity": "O termo faz referência ao Rio Parauapebas e pode significar 'rio de águas rasas' ou 'afluente raso do rio grande"
+    },
+    {
+      "id": 4,
+      "question": "Quem foi o primeiro prefeito eleito da história de Parauapebas?",
+      "options": ["Darci Lermen", "Valmir Mariano", "Bel Mesquita", "Faisal Salmen"],
+      "correctAnswer": 3,
+      "curiosity": "O médico Faisal Salmen foi eleito em novembro de 1988 e governou o município no período de 1989 a 1992."
+    },
+    {
+      "id": 5,
+      "question": "Qual destes locais é um importante ponto turístico de conservação ambiental em Parauapebas?",
+      "options": ["Museu do Ipiranga", "Parque Zoobotânico de Carajás", "Cataratas do Iguaçu", "Parque da Cidade"],
+      "correctAnswer": 1,
+      "curiosity": "O Parque Zoobotânico ocupa uma área equivalente a 30 campos de futebol e abriga animais em habitat próximo ao natural dentro da Floresta Nacional de Carajás."
+    },
+    {
+        "id": 6,
+        "question": "Qual empresa foi a principal responsável pela construção da infraestrutura inicial de Parauapebas no Projeto Grande Carajás?",
+        "options": ["Petrobras", "Vale (antiga CVRD)", "Embraer", "Gerdau"],  
+        "correctAnswer": 1,
+        "curiosity": "A Companhia Vale do Rio Doce construiu estradas, escolas, hospitais e o núcleo urbano original para abrigar seus funcionários."
+    },
+    {
+        "id": 7,
+        "question": "Quem foi o geólogo responsável por descobrir a grande jazida de minério de ferro na Serra dos Carajás na década de 60?",
+        "options": ["Chico Brito", "Breno dos Santos", "Nestor Jost", "Faisal Salmen"],
+        "correctAnswer": 1,
+        "curiosity": "Breno dos Santos descobriu a jazida em 1967, o que deu início ao interesse mundial pela região de Carajás."
+    },
+    {
+        "id": 8,
+        "question":"Qual é o bairro considerado o mais antigo de Parauapebas, surgido a partir de um vilarejo de garimpeiros?",
+        "options": ["Cidade Nova", "Rio Verde", "Bairro dos Minérios", "Tropical"],
+        "correctAnswer": 1,
+        "curiosity": "O Rio Verde surgiu de forma espontânea antes mesmo da vila planejada pela Vale, sendo conhecido na época como 'Inferninho'"
+    },
+    {
+        "id": 9,
+        "question": "Qual é o nome da ferrovia que liga Parauapebas ao Porto da Ponta da Madeira, em São Luís (MA)?",
+        "options": ["Estrada de Ferro Vitória a Minas", "Estrada de Ferro Carajás", "Ferrovia Norte-Sul", "Transamazônica"],
+        "correctAnswer": 1,
+        "curiosity": "A Estrada de Ferro Carajás possui 892 quilômetros de extensão e transporta minérios e passageiros diariamente"
+    },
+    {
+        "id": 10,
+        "question": "No plebiscito de 1988 para a emancipação do município, qual foi o percentual de aprovação popular pelo 'SIM'?",
+        "options": ["51%", "75%", "88%", "99%"],
+        "correctAnswer": 3,
+        "curiosity": "Com a participação de mais de 16 mil eleitores, 99% da população votou pela independência política de Marabá"       
+    },
+    {
+        "id": 11,
+        "question": "Qual destas aves majestosas pode ser observada em seu ninho monitorado na Floresta Nacional de Carajás?",
+        "options": ["Pinguim", "Harpia (Gavião Real)", "Pelicano", "Flamingo"],
+        "correctAnswer": 1,
+        "curiosity": "A Harpia é um dos destaques do turismo de observação de aves (birdwatch) na região de Carajás"
+    },
+    {
+        "id": 12,
+        "question": "Qual é a principal rodovia que liga Parauapebas à cidade de Marabá?",
+        "options": ["BR-101", "PA-275", "Rodovia dos Imigrantes", "Avenida Paulista"],
+        "correctAnswer": 1,
+        "curiosity": "A PA-275 foi concluída em 1976 e foi o caminho principal para a chegada dos primeiros imigrantes e fazendeiros"
+    },
+    {
+        "id": 13,
+        "question": "Qual marca econômica importante Parauapebas alcançou no estado do Pará no ano de 2020?",
+        "options": ["Cidade com mais gado", "Cidade mais rica (maior PIB)", "Cidade com mais indústrias têxteis", "Cidade com maior produção de cacau"],
+        "correctAnswer": 1,
+        "curiosity": "Em 2020, o município se tornou a cidade mais rica do estado, superando inclusive a capital, Belém, em PIB"
+    },
+    {
+        "id": 14,
+        "question": "Qual universidade pública federal possui um campus presente no município de Parauapebas?",
+        "options": ["USP", "UFPA", "UFRJ", "Nenhuma das alternativas"],
+        "correctAnswer": 3,
+        "curiosity": "Parauapebas não possui um campus direto em Parauapebas, mas oferece cursos na região por meio da UFRA (Universidade Federal Rural da Amazônia)"
+    },
+    {
+        "id": 15,
+        "question": "Como é chamada a 'cidade da empresa' construída no alto da serra para abrigar os funcionários da Vale?",
+        "options": ["Vila do Rio", "Núcleo Urbano de Carajás", "Bairro União", "Serra Leste"],
+        "correctAnswer": 1,
+        "curiosity": "O Núcleo Urbano de Carajás é uma 'company town' planejada e gerenciada pela mineradora para seus colaboradores"
+    },
+    {
+        "id": 16,
+        "question": "Qual é a principal origem dos imigrantes que compõem a grande miscigenação de Parauapebas?",
+        "options": ["Argentinos e Chilenos", "Maranhenses, Mineiros e Goianos", "Portugueses e Italianos", "Japoneses e Alemães"],
+        "correctAnswer": 1,
+        "curiosity": "A cidade é marcada por uma forte presença de nordestinos (especialmente maranhenses) e pessoas vindas de Minas Gerais e Goiás"
+    }
+  ]
+}
