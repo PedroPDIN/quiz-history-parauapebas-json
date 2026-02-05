@@ -1,0 +1,211 @@
+{
+  "cidade": "Parauapebas",
+  "nivel": "medium",
+  "perguntas": [
+    {
+      "id": 1,
+      "question": "Qual geólogo é creditado pela descoberta da maior jazida de minério de ferro do mundo na Serra dos Carajás em 1967?",
+      "options": [
+        "Chico Brito",
+        "Breno dos Santos",
+        "Nestor Jost",
+        "Faisal Salmen"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Breno dos Santos descobriu as 'clareiras de ferro' enquanto trabalhava para a empresa americana US Steel."
+    },
+    {
+      "id": 2,
+      "question": "Antes da Vale assumir o controle total, qual empresa americana detinha a concessão de pesquisa na Serra dos Carajás?",
+      "options": [
+        "Ford Motor Co.",
+        "US Steel Co.",
+        "Shell Brasil",
+        "Anglo American"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "A US Steel operava através da subsidiária Companhia Meridional de Mineração antes da criação da estatal AMZA."
+    },
+    {
+      "id": 3,
+      "question": "Como era conhecido o bairro Rio Verde em seus primórdios, devido à ocupação espontânea e altos índices de violência?",
+      "options": ["Vila Permanente", "Eldorado", "Inferninho", "Cidade Nova"],
+      "correctAnswer": 2,
+      "curiosity": "O apelido 'Inferninho' surgiu pela falta de policiamento e pela rápida ocupação de garimpeiros vindos de Serra Pelada."
+    },
+    {
+      "id": 4,
+      "question": "Quem foi o primeiro administrador regional de Parauapebas, nomeado em 1983 para supervisionar a implantação da cidade?",
+      "options": [
+        "Salatiel Almeida",
+        "José Francisco de Brito",
+        "Breno dos Santos",
+        "Hélio Gueiros"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Chico Brito foi o primeiro administrador do Núcleo Urbano de Parauapebas criado pela Companhia Vale do Rio Doce."
+    },
+    {
+      "id": 5,
+      "question": "O termo 'Parauapebas' tem origem na língua Tupi. Qual o seu significado mais aceito?",
+      "options": [
+        "Montanha de Ferro",
+        "Rio de Águas Rasas",
+        "Lugar de Ouro",
+        "Vale das Palmeiras"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O nome refere-se ao rio local e significa 'afluente raso do rio grande' ou 'papagaio baixo'."
+    },
+    {
+      "id": 6,
+      "question": "Em qual data ocorreu o plebiscito que resultou em 99% de aprovação para a emancipação de Parauapebas?",
+      "options": [
+        "10 de maio de 1988",
+        "24 de abril de 1988",
+        "15 de novembro de 1988",
+        "28 de fevereiro de 1985"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Apesar da lei de criação ser de maio, o plebiscito decisivo ocorreu em abril de 1988."
+    },
+    {
+      "id": 7,
+      "question": "Qual o nome do programa governamental, lançado na década de 70, que visava criar polos agrominerais na Amazônia?",
+      "options": [
+        "PROSAP",
+        "POLAMAZÔNIA",
+        "Brasil Maior",
+        "Projeto Calha Norte"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O POLAMAZÔNIA utilizava incentivos fiscais para reorganizar o espaço regional em benefício da mineração e agropecuária."
+    },
+    {
+      "id": 8,
+      "question": "O Núcleo Urbano de Carajás é um exemplo clássico de qual modelo de planejamento urbano?",
+      "options": [
+        "Cidade-satélite",
+        "Company Town (Cidade-empresa)",
+        "Metrópole regional",
+        "Vila de colonização"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Como 'Company Town', o Núcleo foi construído pela Vale para abrigar exclusivamente seus funcionários com infraestrutura planejada."
+    },
+    {
+      "id": 9,
+      "question": "Para qual cidade maranhense o minério de ferro de Parauapebas é transportado pela Estrada de Ferro Carajás?",
+      "options": ["Imperatriz", "São Luís", "Caxias", "Açailândia"],
+      "correctAnswer": 1,
+      "curiosity": "O minério segue até o Porto da Ponta da Madeira, em São Luís, percorrendo 892 quilômetros."
+    },
+    {
+      "id": 10,
+      "question": "A região de Carajás concentra qual percentual aproximado de todas as cavernas oficialmente cadastradas no Brasil?",
+      "options": ["5%", "10%", "20%", "40%"],
+      "correctAnswer": 2,
+      "curiosity": "A Serra dos Carajás apresenta a maior concentração de cavernas do país, representando cerca de 20% do total."
+    },
+    {
+      "id": 11,
+      "question": "Quem foi o primeiro prefeito eleito de Parauapebas, assumindo o cargo em 1º de janeiro de 1989?",
+      "options": [
+        "Darci Lermen",
+        "Faisal Salmen",
+        "Chico das Cortinas",
+        "Bel Mesquita"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O médico Faisal Salmen foi eleito em novembro de 1988, logo após a emancipação do município."
+    },
+    {
+      "id": 12,
+      "question": "Qual é a principal função do programa municipal PROSAP em Parauapebas?",
+      "options": [
+        "Extração de ouro",
+        "Saneamento e macrodrenagem",
+        "Distribuição de terras",
+        "Educação infantil"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O PROSAP atua na recuperação de igarapés e revitalização das margens do Rio Parauapebas."
+    },
+    {
+      "id": 13,
+      "question": "Qual fator econômico levou Parauapebas a superar o PIB da capital, Belém, no ano de 2020?",
+      "options": [
+        "Pecuária intensiva",
+        "Turismo ecológico",
+        "Indústria extrativa mineral",
+        "Comércio de varejo"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "A valorização do minério de ferro no mercado internacional impulsionou o PIB da cidade para o topo do estado."
+    },
+    {
+      "id": 14,
+      "question": "Como é determinada a distribuição de moradias no Núcleo Urbano de Carajás?",
+      "options": [
+        "Sorteio público",
+        "Tempo de residência",
+        "Hierarquia funcional (cargo)",
+        "Renda familiar per capita"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "A setorização das casas (R-0 a R-4) é uma extensão da estrutura vertical da empresa Vale."
+    },
+    {
+      "id": 15,
+      "question": "Qual desses povos indígenas habita a região e foi impactado pela implantação do Projeto Carajás?",
+      "options": ["Xavante", "Yanomami", "Xikrin do Cateté", "Guarani Kaiowá"],
+      "correctAnswer": 2,
+      "curiosity": "Os Xikrin do Cateté viviam na área antes da exclusividade da Vale para explorar o minério."
+    },
+    {
+      "id": 16,
+      "question": "Em qual ano o trem de passageiros da Vale foi inaugurado, um ano após o início da exportação de minério?",
+      "options": ["1984", "1985", "1986", "1988"],
+      "correctAnswer": 2,
+      "curiosity": "O trem de passageiros só iniciou em 1986 porque não havia vagões disponíveis no mercado em 1985."
+    },
+    {
+      "id": 17,
+      "question": "Qual órgão federal foi responsável pela regularização fundiária e abertura das ruas do Rio Verde em 1983?",
+      "options": ["IBAMA", "SUDAM", "GETAT", "INCRA"],
+      "correctAnswer": 2,
+      "curiosity": "O GETAT (Grupo Executivo das Terras do Araguaia-Tocantins) coordenou o assentamento urbano na época."
+    },
+    {
+      "id": 18,
+      "question": "A Estância Águas de Maria e o Garimpo das Pedras fazem parte de qual rota turística local?",
+      "options": [
+        "Rota do Minério",
+        "Rota das Águas",
+        "Rota das Cavernas",
+        "Rota dos Búfalos"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "A Rota das Águas inclui balneários e piscinas termais localizados nos arredores de Parauapebas."
+    },
+    {
+      "id": 19,
+      "question": "Qual empresa estatal foi criada em 1970 para assumir as concessões de lavra que pertenciam à US Steel?",
+      "options": ["AMZA", "BNDES", "Petrobras", "Vale"],
+      "correctAnswer": 0,
+      "curiosity": "A AMZA (Amazônia Mineração S/A) foi a primeira tentativa de controle estatal sobre as jazidas de Carajás."
+    },
+    {
+      "id": 20,
+      "question": "Qual ave majestosa é destaque no turismo de observação (Birdwatch) na Floresta Nacional de Carajás?",
+      "options": [
+        "Arara-Azul",
+        "Harpia (Gavião Real)",
+        "Tucano-Toco",
+        "Beija-flor Brilho-de-fogo"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "A Harpia possui ninhos monitorados na FLONA Carajás, sendo um grande atrativo para observadores."
+    }
+  ]
+}
