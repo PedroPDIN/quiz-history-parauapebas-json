@@ -1,0 +1,221 @@
+{
+  "cidade": "Parauapebas",
+  "nivel": "hard",
+  "perguntas": [
+    {
+      "id": 1,
+      "question": "Qual foi o número do Requerimento legislativo protocolado em 1987 que deu início formal ao processo de emancipação de Parauapebas?",
+      "options": ["001/87", "008/87", "015/88", "5.443/88"],
+      "correctAnswer": 1,
+      "curiosity": "O Requerimento nº 008/87 foi protocolado pelo deputado estadual Carlos Cavalcante na primeira hora de seu mandato, cumprindo um acordo de troca de favores políticos com a liderança local."
+    },
+    {
+      "id": 2,
+      "question": "Em 1977, qual foi o arranjo acionário final que permitiu à Vale (CVRD) assumir o controle total da AMZA?",
+      "options": [
+        "Compra de 100% da US Steel",
+        "Aquisição de 49% da US Steel e 51% do BNDES",
+        "Fusão direta com a Meridional de Mineração",
+        "Estatização por decreto militar sem ônus"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "A Vale adquiriu os 49% da US Steel e, em 1977, o governo vendeu os 51% restantes que pertenciam ao BNDES, saneando a empresa após casos de malversação de fundos."
+    },
+    {
+      "id": 3,
+      "question": "Quem foi o advogado consultado por Chico Brito para realizar o estudo legal que fundamentou a separação de Marabá?",
+      "options": [
+        "Dr. Bento Torres Pinto",
+        "Dr. Carlos Henrique",
+        "Dr. Frederico Marinho",
+        "Dr. Jader Pazinato"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "O trabalho de consultoria jurídica para a campanha de separação foi encomendado ao Dr. Frederico Marinho, que na época das fontes atuava como Juiz em Caxias-MA."
+    },
+    {
+      "id": 4,
+      "question": "No planejamento do GETAT em 1983, quantas famílias foram criteriosamente selecionadas e assentadas no Projeto Agrícola (CEDERE I e II)?",
+      "options": [
+        "500 famílias",
+        "1.000 famílias",
+        "2.000 famílias",
+        "5.000 famílias"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "Foram selecionadas e assentadas 2.000 famílias em 1983, recebendo cada uma 50 hectares, sementes, ferramentas e um salário mínimo por um ano."
+    },
+    {
+      "id": 5,
+      "question": "Qual foi a estratégia política usada por Chico Brito em 1988 para forçar a Câmara de Marabá a aprovar o processo de emancipação?",
+      "options": [
+        "Ameaça de greve na Estrada de Ferro",
+        "Corte do fornecimento de minério",
+        "Propor candidatura de residente de Parauapebas para prefeito de Marabá visando mudar a sede do município",
+        "Bloqueio da rodovia PA-275"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "Chico Brito ameaçou lançar um candidato de Parauapebas à prefeitura de Marabá que, se eleito, mudaria a sede administrativa para Parauapebas, forçando Marabá a aprovar a emancipação por unanimidade."
+    },
+    {
+      "id": 6,
+      "question": "Nas eleições de 1988, quem foi o candidato mais votado para a Câmara Municipal, mas que não assumiu a cadeira por falta de quociente eleitoral?",
+      "options": [
+        "Zé do Galo",
+        "Nei da Linguiça",
+        "Odílio Rosa da Hora",
+        "João Prudêncio"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "Odílio Rosa da Hora (PT) obteve 459 votos (o mais votado da cidade), mas o PT não alcançou o quociente de 1.176 votos necessários para uma vaga."
+    },
+    {
+      "id": 7,
+      "question": "Qual era o valor nominal do subsídio de um vereador na 1ª Legislatura da Câmara Municipal de Parauapebas em 1988?",
+      "options": [
+        "1 salário mínimo",
+        "3 salários mínimos",
+        "10 salários mínimos",
+        "Nenhuma dessa alternativas"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Na primeira legislatura, o salário de um vereador equivalia a três salários mínimos, totalizando R$ 788,12 na moeda da época."
+    },
+    {
+      "id": 8,
+      "question": "Qual foi a principal consequência econômica após a inauguração da ferrovia e a conclusão das obras das minas em 1985?",
+      "options": [
+        "Aumento imediato do preço dos imóveis",
+        "Redução do contingente de operários de 14.000 para 3.500",
+        "Expulsão definitiva dos garimpeiros",
+        "Criação do bairro Cidade Nova"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "A demissão de cerca de 10.000 homens causou um baque profundo: o comércio reduziu drasticamente e o preço dos imóveis despencou."
+    },
+    {
+      "id": 9,
+      "question": "Qual o nome científico da ave endêmica da região frequentemente observada na Estrada de Águas Claras na FLONA Carajás?",
+      "options": [
+        "Harpia harpyja",
+        "Lepidothrix íris",
+        "Phoenicircus carnifex",
+        "Anodorhynchus hyacinthinus"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O Lepidothrix íris (conhecido como cabeça-de-prata) é uma espécie endêmica da região destacada nas atividades de observação de aves."
+    },
+    {
+      "id": 10,
+      "question": "O Complexo Turístico de Parauapebas, financiado pelo BID, faz parte da primeira etapa de revitalização de qual igarapé?",
+      "options": [
+        "Igarapé Gelado",
+        "Igarapé Azul",
+        "Igarapé Ilha do Coco",
+        "Igarapé Lajeado"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "O Complexo é fruto da parceria com o BID como parte da etapa inicial de revitalização do Igarapé Ilha do Coco."
+    },
+    {
+      "id": 11,
+      "question": "Em julho de 1984, por que milhares de garimpeiros depredaram instalações no Núcleo Urbano de Parauapebas?",
+      "options": [
+        "Pelo fim da ditadura militar",
+        "Pelo atraso no pagamento de salários",
+        "Para forçar a Vale a realizar obras na cava de Serra Pelada",
+        "Pelo direito de morar no Núcleo de Carajás"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "Cerca de 100 mil garimpeiros atacaram a cidade para forçar a Vale a fazer obras que permitissem continuar o garimpo em Serra Pelada."
+    },
+    {
+      "id": 12,
+      "question": "Na estrutura do Núcleo Urbano de Carajás, qual destes modelos de residência é o único que não possui garagem coberta?",
+      "options": ["Modelo R-1", "Modelo R-2", "Modelo R-4", "Modelo R-0"],
+      "correctAnswer": 2,
+      "curiosity": "O modelo R-4, destinado a funcionários de apoio e menos especializados, é o único que não possui garagem coberta no projeto original."
+    },
+    {
+      "id": 13,
+      "question": "Em 2011, qual percentual dos royalties pagos pela Vale era destinado a um advogado conforme contrato com a prefeitura?",
+      "options": ["2%", "5%", "10%", "20%"],
+      "correctAnswer": 3,
+      "curiosity": "Um contrato entre a prefeitura e o advogado Jader Alberto Pazinato previa o pagamento de 20% dos royalties pagos pela Vale ao município."
+    },
+    {
+      "id": 14,
+      "question": "Qual era a capacidade anual de processamento da usina de beneficiamento de Manganês da Mina Azul em 1985?",
+      "options": [
+        "100 mil toneladas",
+        "350 mil toneladas",
+        "700 mil toneladas",
+        "1 milhão de toneladas"
+      ],
+      "correctAnswer": 2,
+      "curiosity": "Iniciada no final de 1985, a usina de beneficiamento tinha capacidade para processar até 700 mil toneladas por ano."
+    },
+    {
+      "id": 15,
+      "question": "Quem foi o vereador da 1ª Legislatura assassinado em setembro de 1991 próximo à sua residência?",
+      "options": [
+        "Milton da Coca",
+        "João Prudêncio de Brito",
+        "Luis Rissardi",
+        "Fernando da Ótica"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "João Prudêncio de Brito foi assassinado e sua vaga foi assumida pelo suplente Valdir da Usina."
+    },
+    {
+      "id": 16,
+      "question": "Nas eleições de 2024, qual marca histórica Aurélio Goiano alcançou no município?",
+      "options": [
+        "Primeiro prefeito reeleito",
+        "Prefeito mais votado da história com 92.073 votos",
+        "Venceu sem coligação partidária",
+        "Primeiro prefeito nascido na cidade"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "Aurélio Goiano obteve 92.073 votos (58,52%), tornando-se o prefeito mais votado da história de Parauapebas."
+    },
+    {
+      "id": 17,
+      "question": "Qual era o percentual mínimo obrigatório de mão de obra paraense e maranhense nas empresas do Projeto Grande Carajás?",
+      "options": ["30%", "50%", "70%", "90%"],
+      "correctAnswer": 2,
+      "curiosity": "Estabeleceu-se que no mínimo 70% da mão de obra deveria ser formada por paraenses e maranhenses, sob pena de retenção de faturas."
+    },
+    {
+      "id": 18,
+      "question": "Qual personagem histórica ficou responsável pela coleta das assinaturas de eleitores para iniciar o processo de emancipação?",
+      "options": [
+        "Bel Mesquita",
+        "D. Terezinha da Feira",
+        "Carmelita Felix",
+        "Graciele Brito"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "D. Terezinha da Feira (Terezinha de Jesus Mouta) foi a encarregada de coletar as assinaturas, a primeira peça necessária ao processo."
+    },
+    {
+      "id": 19,
+      "question": "Por que o trem de passageiros da Vale só foi inaugurado em 1986, um ano após o início da exportação de minério?",
+      "options": [
+        "Falta de trilhos adequados",
+        "Não havia vagões disponíveis no mercado em 1985",
+        "Greve dos operários da ferrovia",
+        "Falta de autorização federal"
+      ],
+      "correctAnswer": 1,
+      "curiosity": "O trem de passageiros atrasou porque não havia vagões disponíveis para aquisição em 1985, forçando a Vale a encomendar de uma empresa europeia."
+    },
+    {
+      "id": 20,
+      "question": "Qual o percentual aproximado do PIB do Pará que Parauapebas representava no ano de 2021?",
+      "options": ["5,5%", "12,1%", "18,9%", "25,0%"],
+      "correctAnswer": 2,
+      "curiosity": "Impulsionado pela mineração, o PIB de Parauapebas representou 18,9% do PIB estadual em 2021."
+    }
+  ]
+}
